@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+legal-venv/
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Streamlit
+.streamlit/
+.streamlit/**/credentials.toml
+.streamlit/**/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# Caches
+*.cache
+.cache/
+pytest_cache/
+.pytest_cache/
+
+# temp
+.python-version
