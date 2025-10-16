@@ -62,6 +62,7 @@ legal-assistant-final/
 - Data is stored locally in `tmp/` for persistence across runs.
 
 Live link:
+https://sprnjt-legal-ai-assistant-legal-team-ltme7x.streamlit.app
 
 Project Screenshots:
 
